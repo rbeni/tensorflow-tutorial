@@ -1,2 +1,2 @@
 # keras-tutorial
-A tutorial for working with keras
+Code done to complete the François Chollet's "Deep Learning with Python" convolutional networks section. 
